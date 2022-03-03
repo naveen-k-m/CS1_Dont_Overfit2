@@ -125,4 +125,4 @@ def predict():
         return jsonify({'error': 'Please check the format of the txt file'})
 
 
-app.run("localhost","8080")
+#app.run("localhost","8080")
